@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulafdor de Memoria RAM", "Simulafdor de Memoria RAM\Simulafdor de Memoria RAM.csproj", "{143EB459-1FA9-4772-B806-49FFD1640511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{143EB459-1FA9-4772-B806-49FFD1640511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143EB459-1FA9-4772-B806-49FFD1640511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143EB459-1FA9-4772-B806-49FFD1640511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143EB459-1FA9-4772-B806-49FFD1640511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE4F74F-5A33-4E62-9686-2AF32E505298}
+	EndGlobalSection
+EndGlobal
